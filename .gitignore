@@ -1,1 +1,2 @@
-./api/venv
+node_modules/
+.vscode/
